@@ -1,0 +1,1 @@
+Parent project for easy access to the backend API and frontend.

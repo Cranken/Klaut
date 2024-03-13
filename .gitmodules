@@ -1,0 +1,6 @@
+[submodule "Klaut-Frontend"]
+	path = Klaut-Frontend
+	url = git@github.com:Cranken/Klaut-Frontend.git
+[submodule "Klaut-API"]
+	path = Klaut-API
+	url = git@github.com:Cranken/Klaut-API.git
